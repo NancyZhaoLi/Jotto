@@ -1,9 +1,11 @@
 Jotto by Zhao Y. Li
-ID: 20473475/zy22li
 
 "make run" to compile
 
-note: for easy marking, the word to be guessed is outputed in command line. 
+Choose the difficulty level and start guessing! Enter a word, the number of matched letters will be displayed. Previous guesses are displayed and game can be restarted at anytime. Implemented using Java.
+
+
+note: the word to be guessed is outputed in command line. 
 
 extra features:
 1.view showing which letters have been guessed. 
